@@ -1436,3 +1436,5 @@ split = split || function (undef) {
     return self;
 
 }();
+
+window.Liquid = Liquid;
