@@ -1,0 +1,13 @@
+{
+  "name": "liquid-js",
+  "version": "1.2.1",
+  "homepage": "",
+  "main": "liquid.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
